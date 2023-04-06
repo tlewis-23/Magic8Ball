@@ -19,7 +19,7 @@ public class Magic8Ball {
                 String answer = answerRough.toLowerCase().trim();
                 if (answer.equals("y")){
                     showMenu();
-                } else if (answer.equals("n")) {
+                } else {
                     break;
                 }
             } else if (randomNumber == 1) {
@@ -28,7 +28,7 @@ public class Magic8Ball {
                 String answer = answerRough.toLowerCase().trim();
                 if (answer.equals("y")){
                     showMenu();
-                } else if (answer.equals("n")) {
+                } else {
                     break;
                 }
             } else if (randomNumber == 2) {
@@ -37,7 +37,7 @@ public class Magic8Ball {
                 String answer = answerRough.toLowerCase().trim();
                 if (answer.equals("y")){
                     showMenu();
-                } else if (answer.equals("n")) {
+                } else {
                     break;
                 }
             } else if (randomNumber == 3) {
@@ -46,7 +46,7 @@ public class Magic8Ball {
                 String answer = answerRough.toLowerCase().trim();
                 if (answer.equals("y")){
                     showMenu();
-                } else if (answer.equals("n")) {
+                } else {
                     break;
                 }
             } else if (randomNumber == 4) {
@@ -55,7 +55,7 @@ public class Magic8Ball {
                 String answer = answerRough.toLowerCase().trim();
                 if (answer.equals("y")){
                     showMenu();
-                } else if (answer.equals("n")) {
+                } else {
                     break;
                 }
             } else if (randomNumber == 5) {
@@ -64,7 +64,7 @@ public class Magic8Ball {
                 String answer = answerRough.toLowerCase().trim();
                 if (answer.equals("y")){
                     showMenu();
-                } else if (answer.equals("n")) {
+                } else {
                     break;
                 }
             }
